@@ -114,4 +114,18 @@ exports.TFS_progress:Custom({
 Ce projet est sous licence [MIT](#).
 ```
 
-N'hésite pas à demander si tu veux des ajustements ou d'autres informations !
+# Licence MIT
+
+Copyright (c) [2024] [Tifiouse]
+
+## Conditions de la Licence
+
+Par la présente, il est accordé, sans frais, à toute personne obtenant une copie de ce script (TFS_FUEL) et des fichiers de documentation associés, le droit de traiter le Script sans restriction, y compris, sans limitation, le droit de l'utiliser, de le copier, de le modifier, de le fusionner, de le publier, de le distribuer, de le sous-licencier et/ou de vendre des copies du Script, et de permettre aux personnes à qui le Script est fourni de le faire, sous réserve des conditions suivantes :
+
+1. Attribution : L'avis de copyright ci-dessus et cet avis de permission doivent être inclus dans toutes les copies ou parties substantielles du Script.
+
+2. Utilisation : Vous pouvez utiliser ce script dans des projets personnels ou commerciaux tant que vous respectez les conditions de cette licence.
+
+3. Exclusion de garantie : LE SCRIPT EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER AUX GARANTIES DE COMMERCIALISATION, D'ADÉQUATION À UN USAGE PARTICULIER ET DE NON-CONTREFAÇON. EN AUCUN CAS, L'AUTEUR OU LES TITULAIRES DU DROIT D'AUTEUR NE POURRONT ÊTRE TENUS RESPONSABLES DE QUELQUE RECLAMATION, DOMMAGES OU AUTRES RESPONSABILITÉS, QUE CE SOIT DANS UNE ACTION EN CONTRAT, EN DÉLIT OU AUTRE, DÉCOULANT DE OU EN LIEN AVEC LE SCRIPT OU L'UTILISATION OU D'AUTRES TRAITEMENTS DANS LE SCRIPT.
+
+```
